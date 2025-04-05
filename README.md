@@ -24,8 +24,8 @@ This template is ideal for developers who want to quickly build a feature-rich D
 
 ```bash
 
-git clone https://github.com/yourusername/discord-sql-template.git
-cd discord-sql-template
+git clone https://github.com/feelingnothing/discord.py-template.git
+cd discord.py-template
 
 ```
 
@@ -41,14 +41,14 @@ Create a config.json file in the root directory:
 {
   "botToken": "YOUR_DISCORD_BOT_TOKEN",
   "botPrefix": "!",
-  "db_file": "bot.db"
+  "db_file": "general.db"
 }
 
 ```
 
 Run the bot:
 
-```
+```bash
 python bot.py
 ```
 
