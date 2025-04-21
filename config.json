@@ -1,5 +1,6 @@
 {
     "botToken": "",
     "botPrefix": "",
-    "db_file": "general.db"
+    "db_file": "general.db",
+    "mainserverid": "server_id"
 }
